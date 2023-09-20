@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Healthy lifestyle</title>
+  </business>
+  <body>
+    <header>
+      This is my Healthy site 
+      <nav>dashboard , contact us, about us will be go header</nav>
+    </header>
+    <main>
+      This is the main content of the page
+      <article>This is the article on the page</article>
+      <aside>Some additional but not relevant information</aside>
+      <section>Some more information about our website</section>
+      <p>Healthy lifestyle involves a lot of things under it, including a nutritional diet, daily exercise, adequate sleep, being happy, and thinking positively</p>
+    </main>
+    <footer>your page copyrights will be here</footer>
+  </body>
+</html>
